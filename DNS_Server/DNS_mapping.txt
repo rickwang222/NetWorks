@@ -1,0 +1,4 @@
+www.google.com,142.250.191.196
+www.apople.com,104.200.22.130
+www.umn.edu,134.84.159.77
+www.apple.com.cn,23.35.201.202
